@@ -299,3 +299,11 @@ for more information.
 <p>
   After the workshop, please fill out <a href="{{ site.instructor_post_survey }}{{ site.github.project_title }}">our post-training survey</a>.
 </p>
+
+<hr/>
+
+<h2 id="registration">Registration</h2>
+
+<p>
+  To register for this workshop please complete this <a href="https://docs.google.com/forms/d/14SXEiXkMoWEGRh4pvB_iSDmCcmeDnHOo79DONxBQwII">short registration form</a>.
+</p>
