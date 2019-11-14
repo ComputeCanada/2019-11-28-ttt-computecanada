@@ -16,9 +16,7 @@ locations:
   - venue: "Online"
     address: "https://carpentries.zoom.us/j/room1"
 
-  - venue: "Euphoria University"
-    address: "Room A, 123 Forth Street, Blimingen, Euphoria"
-    latlng: "41.7901128,-87.6007318"
+  - venue: "Canada"
 
 ---
 
