@@ -305,5 +305,5 @@ for more information.
 <h2 id="registration">Registration</h2>
 
 <p>
-  To register for this workshop please complete this <a href="https://docs.google.com/forms/d/14SXEiXkMoWEGRh4pvB_iSDmCcmeDnHOo79DONxBQwII">short registration form</a>.
+  To register for this workshop please complete this <a href="https://forms.gle/rQnXMUWvui7osqSX9">short registration form</a>.
 </p>
