@@ -17,6 +17,7 @@ locations:
     address: "https://carpentries.zoom.us/j/room1"
 
   - venue: "Canada"
+    address: "This event is targeted at new instructors in Canada and so they will get first priority.  People from other locations are welcome to apply and will be given extra seats on a first come, first serve basis."
 
 ---
 
